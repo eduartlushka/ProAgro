@@ -1,0 +1,8 @@
+[17-Jul-2018 08:24:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/f4zefi2rblog/public_html/shop/db.php on line 8
+[17-Jul-2018 08:27:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'restpvda_wp329'@'localhost' (using password: YES) in /home/f4zefi2rblog/public_html/shop/db.php on line 8
+[17-Jul-2018 08:28:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'restpvda_wp329'@'localhost' (using password: YES) in /home/f4zefi2rblog/public_html/shop/db.php on line 8
+[17-Jul-2018 08:29:44 UTC] PHP Notice:  Undefined index: id in /home/f4zefi2rblog/public_html/shop/myCart.php on line 9
+[17-Jul-2018 08:29:48 UTC] PHP Notice:  Undefined index: id in /home/f4zefi2rblog/public_html/shop/myCart.php on line 9
+[17-Jul-2018 08:35:47 UTC] PHP Notice:  Undefined index: id in /home/f4zefi2rblog/public_html/shop/myCart.php on line 9
+[17-Jul-2018 08:36:08 UTC] PHP Notice:  Undefined index: id in /home/f4zefi2rblog/public_html/shop/myCart.php on line 9
+[24-Jul-2018 21:06:22 UTC] PHP Notice:  Undefined index: id in /home/f4zefi2rblog/public_html/shop/myCart.php on line 9
